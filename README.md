@@ -7,8 +7,10 @@ This project was created to calculate Hamming Distance and Levenshtine Distance 
 to run the project web version apply the following on your machine:
 - move folder 'editDistanceWeb' locally on you machine under /var/www/html
 - cd /var/www/html/editDistanceWeb
-- run php init
+- php init
+
 The prompt will generate the following:
+and ask you for prompt: enter 0 then yes
 
  Which environment do you want the application to be initialized in?
 
