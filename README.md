@@ -9,8 +9,7 @@ To run the project web version apply the following on your machine:
 - cd /var/www/html/EditDistanceProject/editDistanceWeb
 - php init
 
-The prompt will generate the following:
-and ask you for prompt: enter 0 then yes
+The prompt will generate the following and ask you for prompt: enter 0 then yes
 
  Which environment do you want the application to be initialized in?
 
