@@ -12,8 +12,8 @@ use yii\bootstrap\ActiveForm;
         <div class="col-lg-5">
             <?php $form = ActiveForm::begin(['id' => 'distance-form']); ?>
 
-            <?= $form->field($model, 'firstString')->textInput(['autofocus' => true]) ?>
-            <?= $form->field($model, 'secondString')->textInput(['autofocus' => true]) ?>
+            <?= $form->field($model, 'firstString')->textInput(['autofocus' => true, 'placeholder' => 'Enter first string']) ?>
+            <?= $form->field($model, 'secondString')->textInput(['autofocus' => true, 'placeholder' => 'Enter second string']) ?>
 
 
             <div class="form-group">
